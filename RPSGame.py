@@ -1,7 +1,9 @@
 import random
 from RPSModerator import game_Shape, game_Shape_As_String
+from RPSModerator import logo
 
 # Write Code 💻
+print(logo)
 name = input("\nKaede : What's Your Name -> ")
 print(f"\n\nKaede : Welcome To RPS Game {name}.")
 print(f"\n\nKaede : Winning Rules Of The RPS Game As Follows: \n\n"
