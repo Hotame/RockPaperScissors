@@ -86,8 +86,3 @@ while isContinue:
     else:
         isContinue = False
         print(f"\n\nKaede : See You Later {name} ~\n\n")
-
-
-    
-    
-    
