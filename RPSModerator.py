@@ -39,10 +39,3 @@ scissors = '''
 print(logo)
 game_Shape = [rock, paper, scissors]
 game_Shape_As_String = ["Rock", "Paper", "Scissor"]
-
-
-# Rock  = 0 >> 0 Beats 2
-
-# Paper = 1 >> 1 Beats 0
-
-# Scissors = 2 >> 2 Beats 1
