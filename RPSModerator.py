@@ -36,6 +36,5 @@ scissors = '''
       (____)
 ---.__(___)
 '''
-print(logo)
 game_Shape = [rock, paper, scissors]
 game_Shape_As_String = ["Rock", "Paper", "Scissor"]
