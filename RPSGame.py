@@ -65,7 +65,7 @@ def RPS():
         elif kaede_Choice == 1 and user_Choice == 2:
             print(f"\n\n{name} Chose {game_Shape_As_String[2]}.\n\n{game_Shape[2]}")
             print(f"\n\nKaede Chose {game_Shape_As_String[1]}.\n\n{game_Shape[1]}")
-            print(f"\n\nKaede : {name}.\n")
+            print(f"\n\nKaede : {name} Wins.\n")
             break
 
         if user_Choice >= 3:
